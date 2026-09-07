@@ -132,11 +132,14 @@ Project documentation explaining the architecture, deployment process, technolog
 
 The objective of this project is to understand basic AWS EC2 deployment, Linux web server configuration, Security Groups, and automation using EC2 User Data.
 
+## Screenshots
+
+### EC2 Instance
+
+![EC2 Instance](Screenshots/Instance_State.png)
 
 
-\# Author
-
-
+# Author
 
 Karthikeya Puligadda
 
