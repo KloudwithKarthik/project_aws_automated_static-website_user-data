@@ -138,6 +138,15 @@ The objective of this project is to understand basic AWS EC2 deployment, Linux w
 
 ![EC2 Instance](Screenshots/Instance_State.png)
 
+### Security Group Configuration 
+
+![Security Group](Screenshots/Securitygroups_Inboundrules.png)
+
+### Server
+
+![Server](Screenshots/Server.png)
+
+
 
 # Author
 
