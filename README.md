@@ -140,7 +140,7 @@ The objective of this project is to understand basic AWS EC2 deployment, Linux w
 
 ### Security Group Configuration 
 
-![Security Group](Screenshots/Securitygroups_Inboundrules.png)
+![Security Group](Screenshots/Securitygroups_Inboundrule.png)
 
 ### Server
 
