@@ -1,18 +1,10 @@
-### Automated Static Website Deployment on AWS EC2 using the user data
+## Automated Static Website Deployment on AWS EC2 using the user data
 
-
-
-## Project Overview
-
-
+### Project Overview
 
 This project demonstrates how to automatically deploy a static website on an Amazon Linux EC2 instance using EC2 User Data.
 
-
-
 When the EC2 instance is launched, the User Data script automatically:
-
-
 
 \- Updates the system packages
 
@@ -24,11 +16,7 @@ When the EC2 instance is launched, the User Data script automatically:
 
 \- Creates and deploys a static HTML website
 
-
-
-## Architecture 
-
-
+### Architecture 
 
 User
 
@@ -52,11 +40,7 @@ Apache Web Server
 
 Static HTML Website
 
-
-
-## Technologies Used
-
-
+### Technologies Used
 
 \- AWS EC2
 
@@ -70,11 +54,7 @@ Static HTML Website
 
 \- Linux Shell Script
 
-
-
-## Deployment Process
-
-
+### Deployment Process
 
 1\. Launch an Amazon Linux EC2 instance.
 
@@ -94,60 +74,40 @@ Static HTML Website
 
 9\. Access the website using the EC2 public IPv4 address.
 
+### Project Files
 
-
-## Project Files
-
-
-
-# userdata.sh
-
-
+### userdata.sh
 
 Contains the EC2 User Data script responsible for automatically configuring the web server and deploying the website.
 
-
-
-# README.md
-
-
+### README.md
 
 Project documentation explaining the architecture, deployment process, technologies, and implementation.
 
-
-
-# Security
-
-
+### Security
 
 \- HTTP port 80 is open to allow users to access the website.
 
 \- SSH port 22 is restricted to the administrator's IP address.
 
-
-
-# Project Objective
-
-
+### Project Objective
 
 The objective of this project is to understand basic AWS EC2 deployment, Linux web server configuration, Security Groups, and automation using EC2 User Data.
 
-## Screenshots
+### Screenshots
 
-# EC2 Instance
+### EC2 Instance
 
 ![EC2 Instance](Screenshots/Instance_State.png)
 
-# Security Group Configuration 
+### Security Group Configuration 
 
 ![Security Group](Screenshots/Securitygroups_Inboundrules.png)
 
-# Server
+### Server
 
 ![Server](Screenshots/Server.png)
 
-
-# Author
+## Author
 
 Karthikeya Puligadda
-
