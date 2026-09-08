@@ -74,7 +74,7 @@ Static HTML Website
 
 9\. Access the website using the EC2 public IPv4 address.
 
-### Project Files
+## Project Files
 
 ### userdata.sh
 
@@ -108,6 +108,6 @@ The objective of this project is to understand basic AWS EC2 deployment, Linux w
 
 ![Server](Screenshots/Server.png)
 
-## Author
+### Author
 
 Karthikeya Puligadda
