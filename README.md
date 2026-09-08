@@ -1,8 +1,8 @@
-\# Automated Static Website Deployment on AWS EC2 using the user data
+### Automated Static Website Deployment on AWS EC2 using the user data
 
 
 
-\# Project Overview
+## Project Overview
 
 
 
@@ -26,7 +26,7 @@ When the EC2 instance is launched, the User Data script automatically:
 
 
 
-\# Architecture 
+## Architecture 
 
 
 
@@ -54,7 +54,7 @@ Static HTML Website
 
 
 
-\# Technologies Used
+## Technologies Used
 
 
 
@@ -72,7 +72,7 @@ Static HTML Website
 
 
 
-\# Deployment Process
+## Deployment Process
 
 
 
@@ -96,11 +96,11 @@ Static HTML Website
 
 
 
-\# Project Files
+## Project Files
 
 
 
-\# userdata.sh
+# userdata.sh
 
 
 
@@ -108,7 +108,7 @@ Contains the EC2 User Data script responsible for automatically configuring the 
 
 
 
-\# README.md
+# README.md
 
 
 
@@ -116,7 +116,7 @@ Project documentation explaining the architecture, deployment process, technolog
 
 
 
-\# Security
+# Security
 
 
 
@@ -126,7 +126,7 @@ Project documentation explaining the architecture, deployment process, technolog
 
 
 
-\# Project Objective
+# Project Objective
 
 
 
@@ -134,18 +134,17 @@ The objective of this project is to understand basic AWS EC2 deployment, Linux w
 
 ## Screenshots
 
-### EC2 Instance
+# EC2 Instance
 
 ![EC2 Instance](Screenshots/Instance_State.png)
 
-### Security Group Configuration 
+# Security Group Configuration 
 
 ![Security Group](Screenshots/Securitygroups_Inboundrules.png)
 
-### Server
+# Server
 
 ![Server](Screenshots/Server.png)
-
 
 
 # Author
